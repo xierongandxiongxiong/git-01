@@ -1,0 +1,6 @@
+body {
+  background-image: url("../../src/images/2.jpg");
+}
+body h1 {
+  color: red;
+}
